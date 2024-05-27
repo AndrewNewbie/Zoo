@@ -89,7 +89,6 @@ public class Main {
 
     public static void animalOctopus() {
         Octopus octopus = new Octopus();
-
         System.out.println("Ви обрали восьминога, введіть кількість лап:");
         int paws = scanner.nextInt();
         System.out.println("Який звук видає Восьминіг:");
